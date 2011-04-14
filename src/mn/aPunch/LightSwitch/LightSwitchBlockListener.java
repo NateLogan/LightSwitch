@@ -1,4 +1,4 @@
-package com.evilplatypus.bukkit.light;
+package mn.aPunch.LightSwitch;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
