@@ -1,4 +1,4 @@
 name: LightSwitch
-main: com.evilplatypus.bukkit.light.LightSwitch
+main: mn.aPunch.LightSwitch.LightSwitch
 version: 1.0
 
